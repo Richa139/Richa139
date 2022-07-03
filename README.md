@@ -9,7 +9,7 @@ Welcome to my Profile!
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![](https://github.com/web-codegrammer/web-codegrammer/blob/master/svg/header_.png)
+![](https://github.com/Richa139/Richa139/blob/master/svg/header_.png)
 
 # <p align="center"><h3 align="center"><samp> I'm A MERN Stack Developer </samp></h3></p>
 
