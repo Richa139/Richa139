@@ -48,11 +48,7 @@ Welcome to my Profile!
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode" /></a>      
 </span>
 <hr>
-
-
-## Here are some of my GitHub Stats 🚀
-  
-  
+    
 
 
 ## Reach me 📫: 
