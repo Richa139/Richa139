@@ -17,13 +17,14 @@ Welcome to my Profile!
 
 <div>
   <br>
-  
-- 🌍 <samp>Roots from India
-- 👷 <samp>B.Tech in Computer Engrineering(2019-2023)
-- 💬 <samp>Ask me about JavaScript/Web Dev/Data structures and algorithms
-- ♟ <samp>I love developing full stack web applications.
-- ⚡ <samp>Fun fact: I am boring and sometimes dumb though, but I am a determined person.
-- ✉️ <samp>You can drop me an mail at [richakochar28@gmail.com](mailto:richakochar28@gmail.com)
+
+  - 🌍 <samp>Based in India, blending global skills with local roots.</samp>
+  - 👷 <samp>B.Tech in Computer Engineering (2019–2023).</samp>
+  - 💬 <samp>Passionate about JavaScript, Web Development, and Data Structures & Algorithms.</samp>
+  - ♟ <samp>Thrilled to build full-stack web applications that make a difference.</samp>
+  - ⚡ <samp>Fun fact: I might be a bit introverted, but I'm fiercely determined and always curious.</samp>
+  - ✉️ <samp>Feel free to reach out at [richakochar28@gmail.com](mailto:richakochar28@gmail.com).</samp>
+
 </div>
 
 ##
